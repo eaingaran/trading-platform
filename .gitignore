@@ -1,0 +1,9 @@
+# Ignore build artifacts
+/target/
+
+# Ignore IDE/editor files
+.idea/
+.vscode/
+
+# Ignore node_modules (from the frontend)
+/frontend/node_modules/
